@@ -2,8 +2,6 @@
 
 # Swift ByteCoin
 
-![ByteCoin Demo](byte-coin-read-me.gif)
-
 ## Overview
 Swift ByteCoin is a simple cryptocurrency price tracker app built using Swift and UIKit. The app fetches the latest Bitcoin price in various currencies and displays it to the user.
 
